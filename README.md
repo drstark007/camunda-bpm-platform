@@ -40,7 +40,7 @@ camunda BPM platform provides a rich set of components centered around the BPM l
 
 ## A Framework
 
-In contrast to other vendor BPM platforms, camunda BPM strives to be highly integrable and embeddable. We seek to deliver a great experience to developers that want to use BPM technology in their projects.
+In contrast to other vendor BPM platforms, camunda BPM strives to be highly integrable and embeddable. We seek to deliver a great experience to developers who want to use BPM technology in their projects.
 
 ### Highly Integrable
 Out of the box, camunda BPM provides infrastructure-level integration with Java EE Application Servers and Servlet Containers.
